@@ -1,6 +1,23 @@
+import { setSocioLocationId } from "./transientState.js"
+
+const handleLocationChange = (changeEvent) => {
+    debugger
+    if (changeEvent.target.name === "location") {
+        const convertedToNumber = parseInt(changeEvent.target.value)
+        setSocioLocationId(convertedToNumber)
+
+    }
+
+}
+
+
+
 export const LocationChoices = async () => {
+
     const response = await fetch("http://localhost:8088/socioLocations")
     const locations = await response.json()
+
+    document.addEventListener("change", handleLocationChange)
 
 
     let html = `
