@@ -1,7 +1,6 @@
 import { setSocioLocationId } from "./transientState.js"
 
 const handleLocationChange = (changeEvent) => {
-    debugger
     if (changeEvent.target.name === "location") {
         const convertedToNumber = parseInt(changeEvent.target.value)
         setSocioLocationId(convertedToNumber)
