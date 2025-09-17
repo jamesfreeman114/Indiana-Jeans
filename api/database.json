@@ -14,6 +14,371 @@
       "ownsBlueJeans": false,
       "socioLocationId": 3,
       "id": 3
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 4
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 5,
+      "id": 5
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 6
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 7
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 8
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 9
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 10
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 4,
+      "id": 11
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 5,
+      "id": 12
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 13
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 14
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 15
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 5,
+      "id": 16
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 17
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 18
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 5,
+      "id": 19
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 1,
+      "id": 20
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 21
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 22
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 4,
+      "id": 23
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 4,
+      "id": 24
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 0,
+      "id": 25
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 26
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 27
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 28
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 1,
+      "id": 29
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 30
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 31
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 32
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 33
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 34
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 35
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 36
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 37
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 38
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 39
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 40
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 41
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 42
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 43
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 1,
+      "id": 44
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 45
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 4,
+      "id": 46
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 47
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 48
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 49
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 50
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 51
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 52
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 5,
+      "id": 53
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 54
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 55
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 56
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 57
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 58
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 59
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 60
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 61
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 62
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 63
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 64
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 65
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 66
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 67
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 68
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 69
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 70
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 71
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 72
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 73
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 74
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 75
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 76
     }
   ],
   "socioLocations": [
