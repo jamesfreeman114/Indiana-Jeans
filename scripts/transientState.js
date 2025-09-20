@@ -24,6 +24,8 @@ export const saveSurveySubmission = async () => {
     if  (transientState.ownsBlueJeans !== null && 
          transientState.socioLocationId >= 1) {
             const response = await fetch("http://localhost:8088/submissions", postOptions)
+            const newSubmissionEvent = new CustomEvent("newSubmissionCreated")
+            document.dispatchEvent(newSubmissionEvent)
         }
     else {window.alert("You need to complete the form!")}    
 }
